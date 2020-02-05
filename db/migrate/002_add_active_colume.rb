@@ -1,1 +1,1 @@
-class AddActiveColume < 
+class AddActiveColume < ActiveRecord::Migration
